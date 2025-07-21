@@ -26,6 +26,8 @@ savor-spice-bistro/
     └── pfp.png         # Customer profile pictures
 ```
 
+
+
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup and structure
